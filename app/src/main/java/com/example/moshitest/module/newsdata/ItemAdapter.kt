@@ -5,6 +5,7 @@ import com.squareup.moshi.Moshi
 import com.squareup.moshi.ToJson
 import org.json.JSONObject
 
+//不需實作，用不到，而且原型的interface無法用在moshi
 //class ItemAdapter {
 ////    @ToJson
 ////    fun toJson(item: Item): Item {
